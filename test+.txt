@@ -1,0 +1,600 @@
+Below tests are perform on same email but it shows the result of different 
+members of different consecutive scrums. This is just for testing purose and for 
+your better understanding about this project.
+These mails will be send to different members that are in list.
+
+
+
+Subject: Hey! Arjun your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Arjun You are doing great! keep it up
+
+Subject: Hey! Bridget Hart your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Bridget Hart Looks like you are behind current scrum.You just have did 7 questions while you have proposed 10 questions
+
+Subject: Hey! Colton Woodward your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Colton Woodward Looks like you are behind current scrum.You just have did 13 questions while you have proposed 26 questions
+
+Subject: Hey! Emelia Cantrell your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Emelia Cantrell You are doing great! keep it up
+
+Subject: Hey! Emily Delgado your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Emily Delgado Looks like you have not did any question during this scrum Is everything ok!
+
+Subject: Hey! Alia Randall your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Alia Randall Looks like you are behind current scrum.You just have did 10 questions while you have proposed 12 questions
+
+Subject: Hey! Mike Thorntorn your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Mike Thorntorn Looks like you are behind current scrum.You just have did 2 questions while you have proposed 5 questions
+
+Subject: Hey! Celia Black your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Celia Black Looks like you are behind current scrum.You just have did 13 questions while you have proposed 16 questions
+
+Subject: Hey! Marcus Luna your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Marcus Luna Looks like you are behind current scrum.You just have did 6 questions while you have proposed 10 questions
+
+Subject: Hey! Willie Simmons your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Willie Simmons Looks like you are behind current scrum.You just have did 6 questions while you have proposed 10 questions
+
+Subject: Hey! Corra Mann your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Corra Mann Looks like you are behind current scrum.You just have did 5 questions while you have proposed 10 questions
+
+Subject: Hey! Glenn Herrera your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Glenn Herrera Looks like you are behind current scrum.You just have did 8 questions while you have proposed 15 questions
+
+Subject: Hey! Alejandro Knight your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Alejandro Knight Looks like you are behind current scrum.You just have did 10 questions while you have proposed 14 questions
+
+Subject: Hey! Jenna French your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Jenna French Looks like you have not did any question during this scrum Is everything ok!
+
+Subject: Hey! Pearl Mcbride your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Pearl Mcbride Looks like you are behind current scrum.You just have did 6 questions while you have proposed 15 questions
+
+Subject: Hey! Howard Lopez your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Howard Lopez Looks like you are behind current scrum.You just have did 9 questions while you have proposed 10 questions
+
+Subject: Hey! Arjun your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Arjun You are doing great! keep it up
+
+Subject: Hey! Bridget Hart your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Bridget Hart Looks like you are behind current scrum.You just have did 2 questions while you have proposed 3 questions
+
+Subject: Hey! Colton Woodward your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Colton Woodward Looks like you are behind current scrum.You just have did 16 questions while you have proposed 30 questions
+
+Subject: Hey! Emelia Cantrell your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Emelia Cantrell You are doing great! keep it up
+
+Subject: Hey! Emily Delgado your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Emily Delgado Looks like you have not did any question during this scrum Is everything ok!
+
+Subject: Hey! Alia Randall your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Alia Randall Looks like you are behind current scrum.You just have did 13 questions while you have proposed 15 questions
+
+Subject: Hey! Mike Thorntorn your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Mike Thorntorn You are doing great! keep it up
+
+Subject: Hey! Celia Black your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Celia Black Looks like you are behind current scrum.You just have did 10 questions while you have proposed 14 questions
+
+Subject: Hey! Marcus Luna your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Marcus Luna Looks like you are behind current scrum.You just have did 15 questions while you have proposed 20 questions
+
+Subject: Hey! Willie Simmons your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Willie Simmons Looks like you are behind current scrum.You just have did 16 questions while you have proposed 20 questions
+
+Subject: Hey! Corra Mann your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Corra Mann You are doing great! keep it up
+
+Subject: Hey! Glenn Herrera your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Glenn Herrera You are doing great! keep it up
+
+Subject: Hey! Alejandro Knight your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Alejandro Knight You are doing great! keep it up
+
+Subject: Hey! Jenna French your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Jenna French Looks like you are behind current scrum.You just have did 5 questions while you have proposed 14 questions
+
+Subject: Hey! Pearl Mcbride your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Pearl Mcbride You are doing great! keep it up
+
+Subject: Hey! Howard Lopez your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Howard Lopez Looks like you are behind current scrum.You just have did 4 questions while you have proposed 8 questions
+
+Subject: Hey! Arjun your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Arjun You are doing great! keep it up
+
+Subject: Hey! Bridget Hart your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Bridget Hart Looks like you are behind current scrum.You just have did 2 questions while you have proposed 3 questions
+
+Subject: Hey! Arjun your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Arjun You are doing great! keep it up
+
+Subject: Hey! Bridget Hart your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Bridget Hart Looks like you are behind current scrum.You just have did 7 questions while you have proposed 10 questions
+
+Subject: Hey! Colton Woodward your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Colton Woodward Looks like you are behind current scrum.You just have did 13 questions while you have proposed 26 questions
+
+Subject: Hey! Emelia Cantrell your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Emelia Cantrell You are doing great! keep it up
+
+Subject: Hey! Emily Delgado your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Emily Delgado Looks like you have not did any question during this scrum Is everything ok!
+
+Subject: Hey! Alia Randall your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Alia Randall Looks like you are behind current scrum.You just have did 10 questions while you have proposed 12 questions
+
+Subject: Hey! Mike Thorntorn your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Mike Thorntorn Looks like you are behind current scrum.You just have did 2 questions while you have proposed 5 questions
+
+Subject: Hey! Celia Black your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Celia Black Looks like you are behind current scrum.You just have did 13 questions while you have proposed 16 questions
+
+Subject: Hey! Marcus Luna your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Marcus Luna Looks like you are behind current scrum.You just have did 6 questions while you have proposed 10 questions
+
+Subject: Hey! Willie Simmons your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Willie Simmons Looks like you are behind current scrum.You just have did 6 questions while you have proposed 10 questions
+
+Subject: Hey! Corra Mann your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Corra Mann Looks like you are behind current scrum.You just have did 5 questions while you have proposed 10 questions
+
+Subject: Hey! Glenn Herrera your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Glenn Herrera Looks like you are behind current scrum.You just have did 8 questions while you have proposed 15 questions
+
+Subject: Hey! Alejandro Knight your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Alejandro Knight Looks like you are behind current scrum.You just have did 10 questions while you have proposed 14 questions
+
+Subject: Hey! Jenna French your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Jenna French Looks like you have not did any question during this scrum Is everything ok!
+
+Subject: Hey! Pearl Mcbride your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Pearl Mcbride Looks like you are behind current scrum.You just have did 6 questions while you have proposed 15 questions
+
+Subject: Hey! Howard Lopez your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Howard Lopez Looks like you are behind current scrum.You just have did 9 questions while you have proposed 10 questions
+
+Subject: Hey! Arjun your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Arjun You are doing great! keep it up
+
+Subject: Hey! Bridget Hart your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Bridget Hart Looks like you are behind current scrum.You just have did 2 questions while you have proposed 3 questions
+
+Subject: Hey! Colton Woodward your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Colton Woodward Looks like you are behind current scrum.You just have did 16 questions while you have proposed 30 questions
+
+Subject: Hey! Emelia Cantrell your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Emelia Cantrell You are doing great! keep it up
+
+Subject: Hey! Emily Delgado your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Emily Delgado Looks like you have not did any question during this scrum Is everything ok!
+
+Subject: Hey! Alia Randall your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Alia Randall Looks like you are behind current scrum.You just have did 13 questions while you have proposed 15 questions
+
+Subject: Hey! Mike Thorntorn your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Mike Thorntorn You are doing great! keep it up
+
+Subject: Hey! Celia Black your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Celia Black Looks like you are behind current scrum.You just have did 10 questions while you have proposed 14 questions
+
+Subject: Hey! Marcus Luna your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Marcus Luna Looks like you are behind current scrum.You just have did 15 questions while you have proposed 20 questions
+
+Subject: Hey! Willie Simmons your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Willie Simmons Looks like you are behind current scrum.You just have did 16 questions while you have proposed 20 questions
+
+Subject: Hey! Corra Mann your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Corra Mann You are doing great! keep it up
+
+Subject: Hey! Glenn Herrera your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Glenn Herrera You are doing great! keep it up
+
+Subject: Hey! Alejandro Knight your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Alejandro Knight You are doing great! keep it up
+
+Subject: Hey! Jenna French your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Jenna French Looks like you are behind current scrum.You just have did 5 questions while you have proposed 14 questions
+
+Subject: Hey! Pearl Mcbride your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hey! Pearl Mcbride You are doing great! keep it up
+
+Subject: Hey! Howard Lopez your Monday scrum is here!
+From: Team Now n Never
+To: saifcnb@gmail.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Howard Lopez Looks like you are behind current scrum.You just have did 4 questions while you have proposed 8 questions
