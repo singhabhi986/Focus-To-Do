@@ -86,9 +86,7 @@ start=50
 
 #schedule.every(5).minutes.do(scrumcall,start)
 #schedule.every().monday.at("00:59").do(scrumcall,start=start+3)
-#schedule.every().monday.at("01:00").do(scrumcall,start=start+14)
-#schedule.every().monday.at("01:01").do(scrumcall,start=start+3)
-#schedule.every().monday.at("01:02").do(scrumcall,start=start+3)
+
 
 if datetime.today().strftime('%A')=='Monday':    
     schedule.every().monday.at("14:50").do(scrumcall,start)
@@ -106,8 +104,3 @@ if datetime.today().strftime('%A')=='Monday':
 while True: 
     schedule.run_pending() 
     time.sleep(1) 
-#insertRow = ["hello", 5, "red", "blue"]
-#sheet.add_rows(insertRow, 4)  
-#sheet.update_cell(2,2, "CHANGED")  
-#numRows = sheet.row_count  
-#print(numRows)
